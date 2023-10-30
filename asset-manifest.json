@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/mvst-mohamad-almaleh-frontend-challenge/static/css/main.e6c13ad2.css",
+    "main.js": "/mvst-mohamad-almaleh-frontend-challenge/static/js/main.17603a29.js",
+    "static/js/787.18704656.chunk.js": "/mvst-mohamad-almaleh-frontend-challenge/static/js/787.18704656.chunk.js",
+    "index.html": "/mvst-mohamad-almaleh-frontend-challenge/index.html",
+    "main.e6c13ad2.css.map": "/mvst-mohamad-almaleh-frontend-challenge/static/css/main.e6c13ad2.css.map",
+    "main.17603a29.js.map": "/mvst-mohamad-almaleh-frontend-challenge/static/js/main.17603a29.js.map",
+    "787.18704656.chunk.js.map": "/mvst-mohamad-almaleh-frontend-challenge/static/js/787.18704656.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.17603a29.js"
+  ]
+}
